@@ -3,4 +3,5 @@
     <color name="colorPrimary">#43302A</color>
     <color name="colorPrimaryDark">#332520</color>
     <color name="colorAccent">#85584A</color>
+    <color name="cor_fundo_caixa_de_text">#FFFCC6</color>
 </resources>
