@@ -8,7 +8,7 @@ public class AnotacaoPreferencias {
     private Context context;
     private SharedPreferences preferences;
     private SharedPreferences.Editor editor;
-    private final String CHAVE_NOME = "nome";
+    private static final String CHAVE_NOME = "nome";
 
 
     public AnotacaoPreferencias(Context c) {
